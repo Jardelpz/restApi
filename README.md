@@ -19,7 +19,12 @@ bcryptjs
 nodemailer
 nodemailer-express-handlebars
 ```
+After that put it inside the project like this: 
 
+```
+const express = require('express');
+
+```
 Besides that, you should create an account at [mailtrap](https://mailtrap.io/) to test your e-mails sent
 
 ## Built With
