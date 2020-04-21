@@ -19,7 +19,7 @@ bcryptjs
 nodemailer
 nodemailer-express-handlebars
 ```
-After that put it inside the project like this: 
+After that, put it inside the project like this: 
 
 ```
 const express = require('express');
