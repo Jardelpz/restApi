@@ -1,4 +1,4 @@
-# Project Title
+# Rest Api
 
 A node.js api crud using mongoDB and express
 
@@ -40,4 +40,4 @@ Besides that, you should create an account at [mailtrap](https://mailtrap.io/) t
 * Build an mobile app that uses this api
 
 
-This projects looks great, - it's time to merge! :shipit:
+This project looks great, - it's time to merge! :shipit:
