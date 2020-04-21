@@ -15,7 +15,7 @@ express
 mongoose
 body-parser
 jsonwebtoken
-bcryptjs //pra criptar a senha do usurario
+bcryptjs
 nodemailer
 nodemailer-express-handlebars
 ```
