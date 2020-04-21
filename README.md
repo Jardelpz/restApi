@@ -1,6 +1,6 @@
 # Project Title
 
-A node.js api using mongoDB and express
+A node.js api crud using mongoDB and express
 
 ## Getting Started
 
